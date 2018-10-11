@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: databaseClient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: swkundu
+Implementation-Vendor-Id: com.capgemini
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/databaseClient
+Created-By: Maven Integration for Eclipse
+
